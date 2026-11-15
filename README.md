@@ -28,6 +28,3 @@ Business Intelligence
 
 Tools
 Power BI | Power Query | DAX
-
-Tools
-Power BI | Power Query | DAX
